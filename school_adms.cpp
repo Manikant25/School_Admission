@@ -5,6 +5,7 @@
 #include<process.h>
 #include<conio.h>
 #include<stdlib.h>
+#include<iostream.h>
 
 char h[5];
 
@@ -101,6 +102,7 @@ return y;
 
 	else
        {
+cout<<"Hello";
 	 cout<<"\n!!!Not eligible for admission ** Age shoulbe between 14-18!!!"<<endl;
 
 	 cout<<"Would you like to enter age again??(Y/N) : " ;
